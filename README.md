@@ -1,4 +1,10 @@
-## Hi there 👋 I'm Gourab Biswas
+<p align="center">
+  <img src="<p align="center">
+  <img src="https://your-uploaded-gif-url.gif" alt="Coder at work" width="600"/>
+</p>" alt="Coder at work" width="600"/>
+</p>
+
+## Hi 👋 I'm Gourab Biswas
 
 I'm a passionate Computer Science student and developer with a strong interest in AI, ML, computer vision, image cryptography, blockchain, and database systems. I enjoy exploring the depths of both intelligent algorithms and secure data practices.
 
